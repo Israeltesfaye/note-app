@@ -4,7 +4,7 @@ padding: 0;
 font-family:Arial;
 background:#222;
 color:white;
-border-color:skyblue;
+border-color:green;
 }
 form{
 display:flex;
@@ -20,7 +20,7 @@ border-radius:20px;
 button{
 height:10vh;
 width:20vw;
-background:skyblue;
+background:green;
 }
 button:hover{
 background:#f34949;
